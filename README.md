@@ -53,6 +53,10 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 
 ###  HARDWARE SETUP 
 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/09a7184c-46a1-4f4a-b0c3-a4d6dcdb5efc" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/08e6e940-93b7-4a48-92c7-5d13acfa856d" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/456906fd-3f84-42ca-84b7-e92c9a9595d1" />
+
 
 
 
